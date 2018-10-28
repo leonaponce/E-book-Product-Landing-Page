@@ -17,3 +17,6 @@ Deliverables<br><br>
 -#13: The navbar should always be at the top of the viewport. <br><br>
 -#14: My product landing page should have at least one media query.<br><br>
 -#15: My product landing page should utilize CSS flexbox at least once.<br><br>
+-#16: Applies front-end framework  (AngularJs or ReactJs).<br><br>
+-#17: Applies Twitter Bootstrap.<br><br>
+-#18: Applies app deployment (e.g. Heroku).<br><br>
