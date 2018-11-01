@@ -20,3 +20,4 @@ Deliverables<br><br>
 -#16: Applies front-end framework  (AngularJs or ReactJs).<br><br>
 -#17: Applies Twitter Bootstrap.<br><br>
 -#18: Applies app deployment (e.g. Heroku).<br><br>
+-#19: Displays Money Back Guarentee Badge and links to info.<br><br>
